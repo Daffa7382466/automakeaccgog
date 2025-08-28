@@ -1,0 +1,10 @@
+{
+  "name": "minecraft-afk-bot",
+  "version": "1.0.0",
+  "description": "Simple AFK bot for Minecraft server",
+  "main": "minecraft_afk_bot.js",
+  "license": "MIT",
+  "dependencies": {
+    "mineflayer": "^4.32.0"
+  }
+}
