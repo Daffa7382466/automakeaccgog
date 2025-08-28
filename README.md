@@ -10,3 +10,4 @@ Run the unit tests to train the perceptron and verify its predictions:
 ```bash
 python -m unittest
 ```
+
